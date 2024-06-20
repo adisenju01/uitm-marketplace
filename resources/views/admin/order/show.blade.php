@@ -114,7 +114,7 @@
                       <div class="col-lg-4 text-right">
                         <hr class="mt-2 mb-2">
                         <div class="invoice-detail-item">
-                          <div class="invoice-detail-name">Total</div>
+                          <div class="invoice-detail-name">Total test</div>
                           <div class="invoice-detail-value invoice-detail-value-lg">{{$settings->currency_icon}} {{$order->amount}}</div>
                         </div>
                       </div>
